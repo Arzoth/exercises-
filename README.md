@@ -37,9 +37,9 @@ Pull down the new exercises into your repository.
 | ----- | -------------------------------- | -------------------------------------------- |
 | Day 1 | [Terminal](w01/terminal)             | [Drive Thru](w01/drive_thru)                     |
 | Day 2 | [Git and GitHub](w01/git_and_github) | [Manipulating Numbers](w01/manipulating_numbers) |
-| Day 3 | [Ruby OOP](w01/ruby_core)             | [Letter Grades](w01/letter_grade)                |
-| Day 4 | [Ruby Koans](w01/ruby_oop)              | [Diamond Refactoring](w01/diamond_refactoring)   |
-| Day 5 | [Restful APIs](w01/ruby_methods)          |                        |
+| Day 3 | [Ruby Core](w01/ruby_core)             | [Letter Grades](w01/letter_grade)                |
+| Day 4 | [Ruby OOP](w01/ruby_oop)              | [Funny Talk](w01/funny_talk)   |
+| Day 5 | [Ruby Methods](w01/ruby_methods)          |                        |
 
 
 
