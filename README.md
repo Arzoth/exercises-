@@ -1,4 +1,4 @@
-# 2018-07-array-of-sunshine Independent Practice
+# 2019-06 we're git init Independent Practice
 
 ## Instructions
 
