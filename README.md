@@ -5,7 +5,7 @@
 ### Do this one time:
 
 Clone this repository in your actualize folder.
-```git clone https://github.com/Actualize-Exercises-and-Drills/2019-01-lowercase-a.git```
+```git clone https://github.com/Actualize-Exercises-and-Drills/2019-06-we-re-git-init.git```
 
 Make a branch using your unique GitHub username.
 ```git checkout -b YOUR-GITHUB-USERNAME-GOES-HERE```
