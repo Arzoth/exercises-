@@ -14,7 +14,7 @@ Example:
 daffify("This is ridiculous") == "Thith ith ridiculouth"
 ```
 
-# Research
+# Research€
 
 Use RegEx combined with `#gsub` or `#split` from the [String default methods](https://ruby-doc.org/core-2.4.0/String.html) to solve the following problems.
 
