@@ -44,19 +44,21 @@ def porkify(message,dictionary)
     elsif vowels.include?(word[1])
       pork_word = "eh #{word[0]}uh #{word[0].upcase}EH eh #{word}"
     else
-      pork_word = "eh #{word[0]}h #{word[0].upcase}H eh #{word}"
+      pork_word = "eh #{word[0]+word[1]} #{word[0].upcase+word[1].upcase} eh #{word}"
     end
     porkSentence.concat("#{pork_word} ")
   end
   p porkSentence
 end
 
+
 dictionary = ["this","place","tommarow","rust"]
 porkify("this is a nice place",dictionary)
 
 
-"eh th TH eh this is a nice eh ph PH eh place "
+"eh th TH eh this is a nice eh pl PL eh place "
 "eh th TH eh this is a nice eh pl PL eh place."
 
 
-# I don't understand why pl PL
+# Bonus Comit 1 - Psuedocode for Porky Pig Speech 
+
